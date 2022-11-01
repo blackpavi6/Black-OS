@@ -1,0 +1,25 @@
+  Booting 'black_os'
+
+kernel /boot/kernel.elf
+   [Multiboot-elf, <0x100000:0x80:0x0>, <0x101000:0xc:0x0>, shtab=0x102190, ent
+ry=0x10002c]
+
+ß
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
